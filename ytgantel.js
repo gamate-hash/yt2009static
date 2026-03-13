@@ -1,4 +1,4 @@
-window.addEventListener("DOMContentLoaded", async () => {
+async () => {
   const rssUrl = "https://gamate-hash.github.io/feed.xml"; // replace
 
   try {
@@ -25,4 +25,4 @@ window.addEventListener("DOMContentLoaded", async () => {
   } catch (err) {
     console.error("RSS fetch failed:", err);
   }
-});
+}
