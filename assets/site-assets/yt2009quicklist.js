@@ -73,7 +73,7 @@ function flashQuicklistMasthead() {
 // show the quicklist on the sidebar
 function createQuicklistPanel() {
     var r = new XMLHttpRequest();
-    r.open("GET", "/ql_html_template")
+    r.open("GET", "./ql_html_template")
     r.send(null)
     r.addEventListener("load", function(e) {
         if(localStorage

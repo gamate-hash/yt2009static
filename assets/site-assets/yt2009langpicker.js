@@ -19,7 +19,7 @@ function yt2009_loadPicker(arg) {
         } else {
             r = new ActiveXObject("Microsoft.XMLHTTP");
         }
-        r.open("GET", "/language_picker")
+        r.open("GET", "./language_picker")
         r.send(null)
         r.onreadystatechange = function(e) {
             if(r.readyState == 4
