@@ -161,7 +161,7 @@ dt {
 }
 
 .master-sprite {
-  background: transparent url(master-vfl121679.png) repeat-x scroll 0 0;
+  background: transparent url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) repeat-x scroll 0 0;
   border: 0;
   padding: 0;
   cursor: hand;
@@ -289,7 +289,7 @@ button.ratingCapsVS {
   width: 60px;
   height: 16px;
   vertical-align: top;
-  background: white url(master-vfl121679.png);
+  background: white url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png);
   cursor: default
 }
 
@@ -357,7 +357,7 @@ button.ratingCapsL {
   width: 75px;
   height: 15px;
   vertical-align: top;
-  background: white url(master-vfl121679.png)
+  background: white url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png)
 }
 
 button.ratingL-0\.0,
@@ -641,7 +641,7 @@ a.yt-button {
   white-space: nowrap;
   text-decoration: none;
   color: #000;
-  background: #d8d8d8 url(master-vfl121679.png) repeat-x center -802px;
+  background: #d8d8d8 url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) repeat-x center -802px;
   border: 1px solid #999;
   -webkit-border-radius: 3px;
   border-radius: 3px;
@@ -865,7 +865,7 @@ tt:default {
 a.yt-button-primary {
   font-weight: bold;
   color: #039;
-  background: #c6d7f3 url(master-vfl121679.png) repeat-x center -1602px;
+  background: #c6d7f3 url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) repeat-x center -1602px;
   border-color: #a0b1dc
 }
 
@@ -877,7 +877,7 @@ a.yt-button-primary {
 a.yt-button-urgent {
   font-weight: bold;
   color: #994800;
-  background: #fed81c url(master-vfl121679.png) repeat-x center -2202px;
+  background: #fed81c url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) repeat-x center -2202px;
   border-color: #ecc101
 }
 
@@ -1026,17 +1026,17 @@ html>body .yt-button-short span {
 
 .yt-menubutton .yt-menubutton-arr img,
 .yt-menubutton .yt-menubutton-arr button {
-  background: url(master-vfl121679.png) no-repeat 0 center
+  background: url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) no-repeat 0 center
 }
 
 .yt-menubutton-primary .yt-menubutton-arr img,
 .yt-menubutton-primary .yt-menubutton-arr button {
-  background: url(master-vfl121679.png) no-repeat -40px center
+  background: url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) no-repeat -40px center
 }
 
 .yt-menubutton-urgent .yt-menubutton-arr img,
 .yt-menubutton-urgent .yt-menubutton-arr button {
-  background: url(master-vfl121679.png) no-repeat -80px center
+  background: url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) no-repeat -80px center
 }
 
 .yt-menubutton:hover .yt-menubutton-arr img,
@@ -1055,15 +1055,15 @@ html>body .yt-button-short span {
 }
 
 .yt-menulink .yt-menulink-arr {
-  background: url(master-vfl121679.png) no-repeat -120px center
+  background: url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) no-repeat -120px center
 }
 
 .yt-menulink-primary .yt-menulink-arr {
-  background: url(master-vfl121679.png) no-repeat -135px center
+  background: url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) no-repeat -135px center
 }
 
 .yt-menulink-urgent .yt-menulink-arr {
-  background: url(master-vfl121679.png) no-repeat -150px center
+  background: url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) no-repeat -150px center
 }
 
 * html .yt-menubutton-hover .yt-menubutton-arr img,
@@ -1096,7 +1096,7 @@ html>body .yt-button-short span {
 .yt-button-disabled,
 a.yt-button-disabled {
   color: #000;
-  background: #d8d8d8 url(master-vfl121679.png) repeat-x center -802px;
+  background: #d8d8d8 url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) repeat-x center -802px;
   border-color: #999;
   font-weight: normal;
   cursor: default;
@@ -1117,39 +1117,39 @@ a.yt-button-disabled {
 }
 
 .yt-button .yt-button-icon-add {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat 0 center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat 0 center
 }
 
 .yt-button-primary .yt-button-icon-add {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat -20px center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat -20px center
 }
 
 .yt-button .yt-button-icon-delete {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat -60px center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat -60px center
 }
 
 .yt-button-primary .yt-button-icon-delete {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat -80px center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat -80px center
 }
 
 .yt-button .yt-button-icon-edit {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat -120px center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat -120px center
 }
 
 .yt-button-primary .yt-button-icon-edit {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat -140px center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat -140px center
 }
 
 .yt-button .yt-button-icon-mail {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat -180px center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat -180px center
 }
 
 .yt-button-primary .yt-button-icon-mail {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat -200px center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat -200px center
 }
 
 .yt-button-primary .yt-button-icon-play {
-  background: url(/assets/site-assets/button_icons-vfl72305.png) no-repeat -260px center
+  background: url(./assets/site-assets/button_icons-vfl72305.png) no-repeat -260px center
 }
 
 #masthead-container,
@@ -3578,7 +3578,7 @@ html>body .watch-lights-off #baseDiv {
 }
 
 html>body #watch-longform-shade {
-  background-image: url(/assets/site-assets/longform-underlay-1x1-vfl55396.png)
+  background-image: url(./assets/site-assets/longform-underlay-1x1-vfl55396.png)
 }
 
 #watch-longform-ad {
@@ -5044,7 +5044,7 @@ td.spons-vid-thumb .user-thumb-jumbo img {
 }
 
 .homepage-masthead-show-btn {
-  background: transparent url(/assets/site-assets/iyt-vfl105161.png) repeat-x scroll -75px 0;
+  background: transparent url(./assets/site-assets/iyt-vfl105161.png) repeat-x scroll -75px 0;
   border: 0;
   padding: 0;
   cursor: hand;
@@ -5718,7 +5718,7 @@ td.spons-vid-thumb .user-thumb-jumbo img {
 .icon-TOP,
 .icon-GEO,
 .homepage-sprite {
-  background: transparent url(/assets/site-assets/iyt-vfl105161.png) repeat-x scroll 0 0;
+  background: transparent url(./assets/site-assets/iyt-vfl105161.png) repeat-x scroll 0 0;
   border: 0;
   padding: 0;
   cursor: hand;
@@ -5929,7 +5929,7 @@ td.spons-vid-thumb .user-thumb-jumbo img {
   height: 16px;
   width: 12px;
   margin-right: 4px;
-  background: url(master-vfl121679.png) no-repeat 0 -322px;
+  background: url(https://gamate-hash.github.io/yt2009static/master-vfl121679.png) no-repeat 0 -322px;
   vertical-align: middle
 }
 
@@ -6024,7 +6024,7 @@ td.spons-vid-thumb .user-thumb-jumbo img {
   cursor: hand;
   margin-left: 4px;
   margin-right: 2px;
-  background: transparent url(/assets/site-assets/playlist_row_deleter-vfl69806.png) no-repeat scroll 0 0
+  background: transparent url(./assets/site-assets/playlist_row_deleter-vfl69806.png) no-repeat scroll 0 0
 }
 
 .watch-playlist-row {
@@ -6144,7 +6144,7 @@ td.spons-vid-thumb .user-thumb-jumbo img {
 }
 
 .box-close-link img {
-  background: transparent url(//s.ytimg.com/yt/img/close-vfl69806.png) no-repeat scroll 0 0;
+  background: transparent url(.//s.ytimg.com/yt/img/close-vfl69806.png) no-repeat scroll 0 0;
   height: 12px;
   width: 12px;
   margin-left: 5px;
@@ -6242,7 +6242,7 @@ td.spons-vid-thumb .user-thumb-jumbo img {
 
 #watch-flag-menu a.parent,
 #watch-flag-menu a.parent:visited {
-  background: #fff url(/assets/site-assets/arrow_dropdown-vfl29016.gif) no-repeat 205px 5px;
+  background: #fff url(./assets/site-assets/arrow_dropdown-vfl29016.gif) no-repeat 205px 5px;
   border-width: 1px;
   font-weight: bold
 }
@@ -6268,95 +6268,95 @@ td.spons-vid-thumb .user-thumb-jumbo img {
 }
 
 .flag_de_DE {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll 0 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll 0 0
 }
 
 .flag_en_AU {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -17px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -17px 0
 }
 
 .flag_en_CA {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -34px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -34px 0
 }
 
 .flag_en_GB {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -51px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -51px 0
 }
 
 .flag_en_IE {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -68px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -68px 0
 }
 
 .flag_en_NZ {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -85px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -85px 0
 }
 
 .flag_en_US {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -102px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -102px 0
 }
 
 .flag_es_ES {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -119px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -119px 0
 }
 
 .flag_es_MX {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -136px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -136px 0
 }
 
 .flag_fr_FR {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -153px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -153px 0
 }
 
 .flag_it_IT {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -170px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -170px 0
 }
 
 .flag_ja_JP {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -187px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -187px 0
 }
 
 .flag_nl_NL {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -204px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -204px 0
 }
 
 .flag_pl_PL {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -221px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -221px 0
 }
 
 .flag_pt_BR {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -238px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -238px 0
 }
 
 .flag_ru_RU {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -255px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -255px 0
 }
 
 .flag_zh_HK {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -272px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -272px 0
 }
 
 .flag_zh_TW {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -289px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -289px 0
 }
 
 .flag_ko_KR {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -306px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -306px 0
 }
 
 .flag_en_IN {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -323px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -323px 0
 }
 
 .flag_en_IL {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -340px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -340px 0
 }
 
 .flag_cs_CZ {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -357px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -357px 0
 }
 
 .flag_sv_SE {
-  background: transparent url(/assets/site-assets/flags-vfl57703.gif) no-repeat scroll -374px 0
+  background: transparent url(./assets/site-assets/flags-vfl57703.gif) no-repeat scroll -374px 0
 }
 
 #search-advanced-form {
