@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Redirecting...</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    const targetBase = "https://www.youtube.com";
+    const path = window.location.pathname + window.location.search + window.location.hash;
+    const targetURL = targetBase + path;
+    window.location.replace(targetURL);
+  </script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+    * {
+      box-sizing: border-box;
+      font-family: "Work Sans", sans-serif;
+    }
+
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+
+    body {
+      background-color: #0F0606;
+      color: #F0DBDB;
+      padding: 2rem;
+    }
+
+    a {
+      color: #c06262;
+      transition: 0.1s;
+    }
+
+    a:hover {
+      color: #EE0F0F;
+    }
+
+    a:visited {
+      color: #F0DBDB;
+    }
+
+    button {
+      background-color: #EE0F0F;
+      color: #F0DBDB;
+      padding: 8px;
+      border: solid;
+      border-radius: 8px;
+      border-width: 1px;
+      border-color: rgba(240, 219, 219, 0.15);
+      transition: 0.1s;
+      cursor: pointer;
+      font-size: 16px;
+      margin-top: 8px;
+    }
+
+    button:hover {
+      background-color: #c06262;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin: 1rem 0 1rem;
+    }
+
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    .content {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      max-width: 50ch;
+      padding: 1rem;
+      gap: 1.5rem;
+    }
+
+    .container img {
+      width: 50px;
+    }
+
+    section p, section ul {
+      margin-bottom: 1rem;
+    }
+
+    ul {
+      padding-left: 1.2rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <p>If you are not redirected, <a id="manual-link" href="#">click here</a>.</p>
+  <script>
+    document.getElementById("manual-link").href = targetBase + path;
+  </script>
+</body>
+</html>
